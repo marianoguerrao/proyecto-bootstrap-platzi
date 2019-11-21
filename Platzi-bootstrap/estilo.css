@@ -1,0 +1,11 @@
+.jumbotron{
+  background-image: url(https://picsum.photos/id/177/1000/650);
+  background-color: white;
+  height: 500px;
+  justify-content: center;
+  background-size: cover;
+  background-position: bottom center;
+  padding: 0;
+  width: 100%;
+}
+
